@@ -1,0 +1,478 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.bodyy1 {
+    z-index: -5;
+    background-image: url("img/london-006.jpg");
+    width: 100%;
+    height: 100%;
+    position: fixed;
+}
+
+.aaaaaaa {
+    z-index: -5;
+    background-image: url("img/london.jpg");
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    transition: 0.5s;
+}
+
+.bbbbbbb {
+    z-index: -5;
+    background-image: url("img/lvyou_sheying-001.jpg");
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    transition: 0.5s;
+}
+
+
+.wrap {
+    width: 100%;
+    height: 800px;
+    background-image: url("img/Beijing.png");
+}
+
+.top {
+    width: 1300px;
+    height: 90px;
+    margin: 0px auto;
+}
+
+.top-left {
+    width: 600px;
+    height: 90px;
+    float: left;
+}
+
+.top-left-span {
+    width: 130px;
+    height: 90px;
+    float: left;
+}
+
+.top-left-span a {
+    font-size: 30px;
+    margin: 0px 30px;
+    line-height: 90px;
+    text-decoration: none;
+    color: black;
+}
+
+.top-left-span:hover {
+    background-color: #12B7F5;
+}
+
+.top-right {
+    width: 600px;
+    height: 90px;
+
+    float: right;
+}
+
+.top-right-span {
+    width: 130px;
+    height: 90px;
+    float: right;
+}
+
+.top-right-span a {
+    font-size: 14px;
+    margin: 0px 30px;
+    line-height: 90px;
+    color: black;
+    text-decoration: none;
+
+}
+
+.top-right-span-zc {
+    width: 100px;
+    height: 40px;
+    border-radius: 50px;
+    background-color: #14BAF8;
+    margin: 23px 14px;
+}
+
+.top-right-span-zc a {
+    color: aliceblue;
+    line-height: 40px;
+    font-size: 16px;
+    margin: 0px 32px;
+    text-decoration: none;
+}
+
+.section {
+    width: 1100px;
+    height: 450px;
+
+    margin: 0px auto;
+}
+
+.section-text {
+    width: 600px;
+    height: 200px;
+
+    margin: -234px 0px 0px 146px;
+    float: left;
+}
+
+.section-text-top {
+    width: 600px;
+    height: 100px;
+
+}
+
+.section-text-top span {
+    font-size: 85px;
+    letter-spacing: 3px;
+    color: black;
+    margin: 0px 90px;
+}
+
+.section-text-bottom span {
+    font-size: 38px;
+    letter-spacing: 1px;
+    font-weight: bold;
+    color: black;
+    margin: 0px 0px 0px 20px;
+
+}
+
+.section-up {
+    width: 347px;
+    height: 120px;
+    float: left;
+    margin: -226px 0px 0px 695px;
+    background-image: url("img/pc-btn.png");
+}
+
+.section-img {
+    background-image: url("img/qqruanjian.PNG");
+    width: 884px;
+    height: 444px;
+    margin: 260px auto 0px auto;
+}
+
+.iloveqq {
+    background-color: white;
+    width: 100%;
+    height: 200px;
+}
+
+.iloveqq-img {
+    background-image: url("img/我爱qqq.png");
+    width: 701px;
+    height: 194px;
+    margin: 0px auto;
+
+}
+
+.message {
+    width: 100%;
+    height: 583px;
+    background-color: white;
+    margin: 520px 0px 0px 0px;
+}
+
+.message-center {
+    width: 1300px;
+    height: 583px;
+
+    margin: 0px auto;
+}
+
+.message-hand1 {
+    background-image: url("img/shouji.PNG");
+    width: 664px;
+    height: 763px;
+    float: left;
+    margin-top: -181px;
+    margin-left: 100px;
+}
+
+.message-mag1 {
+    background-image: url("img/沟通1.PNG");
+    width: 533px;
+    height: 210px;
+    float: right;
+
+
+    margin-top: 100px;
+}
+
+.message-a {
+    width: 120px;
+    height: 60px;
+    float: right;
+    margin: 30px 30px 0px 0px;
+
+}
+
+.message-a a {
+    font-size: 25px;
+    color: #14BAF8;
+    text-decoration: none;
+    font-weight: bold;
+
+}
+
+.message-mag2 {
+    background-image: url("img/沟通2.PNG");
+    width: 355px;
+    height: 98px;
+    margin: 100px 0px 0px 30px;
+    float: right;
+}
+
+.get {
+    width: 100%;
+    height: 550px;
+    background-color: white;
+    margin: 520px 0px 0px 0px;
+}
+
+.get-center {
+    width: 1200px;
+    height: 550px;
+    border: 1px solid white;
+    margin: 0px auto;
+}
+
+.get-goutong {
+    background-image: url("img/沟通是.PNG");
+    width: 497px;
+    height: 219px;
+
+    margin: 80px 0px 0px 50px;
+
+
+}
+
+.get-goutong-a {
+    width: 120px;
+    height: 60px;
+    float: left;
+    margin: 220px 0px 0px 28px;
+
+}
+
+.get-goutong-a a {
+    font-size: 25px;
+    color: #14BAF8;
+    text-decoration: none;
+    font-weight: bold;
+
+}
+
+.get-manyou {
+    background-image: url("img/互传漫游.PNG");
+    width: 321px;
+    height: 104px;
+    margin: 50px 0px 0px 60px;
+
+
+
+}
+
+.get-img {
+    background-image: url("img/pic2.png");
+    width: 597px;
+    height: 330px;
+    float: right;
+    margin-top: -340px;
+}
+
+.foot {
+    width: 100%;
+    height: 550px;
+    background-color: white;
+    margin: 520px 0px 0px 0px;
+    margin: 520px 0px 0px 0px;
+}
+
+.foot-center {
+    width: 1200px;
+    height: 550px;
+    margin: 0px auto;
+}
+
+.foot-center-phone {
+    background-image: url("img/手机3.png");
+    width: 344px;
+    height: 506px;
+    margin: 40px 0px 0px 100px;
+    float: left;
+    z-index: 1;
+}
+
+.foot-center-goutongtop {
+    background-image: url("img/沟通3上.PNG");
+    width: 515px;
+    height: 198px;
+    float: right;
+    margin: 100px 30px 0px 0px;
+}
+
+.foot-goutong-a {
+    width: 120px;
+    height: 60px;
+    float: right;
+
+    margin: 10px 30px 0px 100px;
+
+}
+
+.foot-goutong-a a {
+    font-size: 25px;
+    color: #14BAF8;
+    text-decoration: none;
+    font-weight: bold;
+
+}
+
+.foot-center-goutongbottom {
+    background-image: url("img/沟通过3.PNG");
+    width: 299px;
+    height: 96px;
+    float: right;
+    margin: 70px -200px 0px 0px;
+}
+
+.foot-jq {
+    width: 600px;
+    height: 150px;
+
+    z-index: 999;
+    float: left;
+    margin-left: -450px;
+
+
+
+}
+
+.foot-img1 {
+    background-image: url("img/叉子.png");
+    width: 150px;
+    height: 150px;
+    float: left;
+    display: none;
+
+}
+
+.foot-img2 {
+    background-image: url("img/自行车.png");
+    width: 150px;
+    height: 150px;
+    float: left;
+    margin-left: 60px;
+    display: none;
+}
+
+.foot-img3 {
+    background-image: url("img/话筒.png");
+    width: 150px;
+    height: 150px;
+    float: left;
+    margin-left: 60px;
+    display: none;
+}
+
+.bottom {
+    width: 100%;
+    height: 420px;
+    background-color: #2A2A2A;
+    float: left;
+}
+
+.bottom-center {
+    width: 1000px;
+    height: 260px;
+    margin: 0px auto;
+}
+
+.bottom-center-title {
+    width: 900px;
+    height: 30px;
+    margin: 40px auto;
+
+}
+
+.bottom-center-title-left {
+    width: 100px;
+    height: 30px;
+    float: left;
+
+}
+
+.bottom-center-title-right {
+    width: 420px;
+    height: 30px;
+    float: right;
+
+}
+
+.bottom-center-title span {
+    color: #666666;
+}
+
+.left {
+    float: left;
+}
+
+.center {
+    margin-left: 115px;
+}
+
+.right {
+    float: right;
+}
+
+.bottom-img {
+    width: 509px;
+    height: 95px;
+    margin-left: -50px;
+}
+
+.bottom-img-png {
+    width: 95px;
+    height: 95px;
+    float: left;
+    margin-left: 30px;
+}
+
+.bottom-qqanquan {
+    width: 600px;
+    height: 165px;
+
+    margin-left: 500px;
+    margin-top: -120px;
+}
+
+.bottom-qqanquan-title {
+    width: 100px;
+    height: 150px;
+    float: left;
+    margin: -29px 50px 0px 30px;
+
+}
+
+.bottom-qqanquan-title a {
+    text-decoration: none;
+    color: #939797;
+    line-height: 20px;
+    font-size: 15px;
+}
+
+.bottom-qqanquan-bottom {
+    background-image: url("img/版权.PNG");
+    width: 980px;
+    height: 68px;
+    margin: 20px auto;
+}
+
+.bottom-qqanquan-title a:hover {
+    color: white;
+}
